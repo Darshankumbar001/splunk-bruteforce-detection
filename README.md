@@ -4,7 +4,7 @@ A small SOC analyst project where I investigated failed and successful Windows l
 
 **Tools:** Splunk (SPL, alerts, dashboards) | **Data:** Windows Security logon events (Event IDs 4624 and 4625) | **MITRE ATT&CK:** T1110 Brute Force
 
-> **About the data:** the logs in this project are simulated, not from a real company. I built the dataset to look like normal office logins with a few attacks hidden in it, so I could practice finding them. The searches and the detection logic work the same way on real Windows logs.
+> **About the data:** the logs in this project are simulated, not from a real company. I used simulated dataset to look like normal office logins with a few attacks hidden in it, so I could practice finding them. The searches and the detection logic work the same way on real Windows logs.
 
 ---
 
